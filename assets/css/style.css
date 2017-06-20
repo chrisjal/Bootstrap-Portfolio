@@ -86,15 +86,15 @@
 	display: inline-block;
 }*/
 
-#chrispic {
+.chrispic {
 	float:left;
+	margin: 0px 20px 0px 0px;
 }
 
 .aboutText {
 	line-height: 30px;
 	font-weight: 300;
 	float:left;
-	overflow: auto;
 }
 
 .portImg {
