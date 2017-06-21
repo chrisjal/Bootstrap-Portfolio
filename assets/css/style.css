@@ -142,8 +142,10 @@
 }
 
 .connectTiles {
-	padding: 0px;
-	margin: -25px 10px 20px 0px;
+/*	padding: 0px;
+	margin: -25px 10px 20px 0px;*/
+	margin-top: -25px;
+	display: inline;
 }
 
 .botFooter {
