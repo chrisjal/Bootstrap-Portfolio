@@ -68,6 +68,14 @@
 	border: 1px solid #ddd;
 }
 
+.main-sectionPort {
+	padding: 30px 40px;
+	margin: 0 0 40px;
+	background: #fff;
+	border: 1px solid #ddd;
+	position: relative;
+}
+
 .hr-about {
 	border-top: 3px solid #ccc; 
 	margin-left: -2%;
@@ -100,6 +108,32 @@
 .portImg {
 /*	margin-left: 10%;
 	margin-right: 10%;*/
+}
+
+.listPortfolio {
+/*	width: 560px;*/
+	z-index: 2;
+	text-align: center;
+}
+
+.listPortfolio img {
+	width: 250px;
+	z-index: 1;
+	padding: 25px 10px;
+	display: inline-block;
+}
+
+.listPortfolio h4 {
+	position: absolute;
+	padding: 10px 10px 10px 0px;
+	background: #4aaaa5;
+	margin-left: 10px;
+	width: 230px;
+	z-index: 2;
+	margin-top: 215px;
+	display: inline;
+	word-wrap: inherit;
+	color: #ffffff;
 }
 
 .connectTitle {
