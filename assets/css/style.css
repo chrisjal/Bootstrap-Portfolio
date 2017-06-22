@@ -106,6 +106,10 @@
 	margin: 0px 20px 0px 0px;
 }
 
+.chrispic:hover {
+	content: url('../images/chrisj_old.jpg');
+}
+
 .aboutText {
 	line-height: 30px;
 	font-weight: 300;
